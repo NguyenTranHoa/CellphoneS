@@ -1,0 +1,410 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"te",
+				"text-decoration\tproperty"
+			],
+			[
+				"bo",
+				"border-bottom\tproperty"
+			],
+			[
+				"fl",
+				"flex-grow\tproperty"
+			],
+			[
+				"texd",
+				"text-decoration\tproperty"
+			],
+			[
+				"lh",
+				"line-height\tproperty"
+			],
+			[
+				"txt",
+				"text-transform\tproperty"
+			],
+			[
+				"dro",
+				"dropdown-menu \tBootstrap 4 Class"
+			],
+			[
+				"z",
+				"z-index\tproperty"
+			],
+			[
+				"clor",
+				"color\tproperty"
+			],
+			[
+				"sh",
+				"box-shadow\tproperty"
+			],
+			[
+				"b",
+				"border\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"tex",
+				"text-transform\tproperty"
+			],
+			[
+				"ob",
+				"object-fit\tproperty"
+			],
+			[
+				"ls",
+				"list-style-type\tproperty"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"ov",
+				"overflow\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"brb",
+				"border-bottom\tproperty"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"mg",
+				"margin-bottom\tproperty"
+			],
+			[
+				"s",
+				"space-between\tjustify-content"
+			],
+			[
+				"alg",
+				"align-items\tproperty"
+			],
+			[
+				"bgc",
+				"background-color\tproperty"
+			],
+			[
+				"gr",
+				"grid-column-gap\tproperty"
+			],
+			[
+				"texa",
+				"text-align\tproperty"
+			],
+			[
+				"grid-template",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"backgrod",
+				"background-image\tproperty"
+			],
+			[
+				"pd",
+				"padding\tproperty"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"gir",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"border-r",
+				"border-right\tproperty"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"list",
+				"list-style\tproperty"
+			],
+			[
+				"al",
+				"text-align\tproperty"
+			],
+			[
+				"ted",
+				"text-decoration\tproperty"
+			],
+			[
+				"flex",
+				"flex-grow\tproperty"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"pr",
+				"pos-r\tposition: relative;"
+			],
+			[
+				"so",
+				"solid"
+			],
+			[
+				"opa",
+				"overflow-wrap\tproperty"
+			],
+			[
+				"j",
+				"justify-content\tproperty"
+			],
+			[
+				"fle",
+				"flex-direction\tproperty"
+			],
+			[
+				"c",
+				"color\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 150.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/hoatep/dev/coderX/project/cellphones/style.css",
+		"/home/hoatep/dev/coderX/project/cellphones/index.html",
+		"/home/hoatep/dev/coderX/project/cellphones/common.css",
+		"/home/hoatep/dev/coderX/project/cellphones/library/jquery-3.4.1.min.js",
+		"/home/hoatep/dev/coderX/project/cellphones/images/style.css",
+		"/home/hoatep/dev/funny/letterbirthday/style.css",
+		"/home/hoatep/dev/funny/letterbirthday/index.html",
+		"/home/hoatep/dev/coderX/project/meetup/index.html",
+		"/home/hoatep/dev/coderX/project/meetup/style.css",
+		"/home/hoatep/dev/coderX/project/meetup/README.md",
+		"/home/hoatep/dev/coderX/project/meetup/images/appstore.jpg",
+		"/home/hoatep/dev/coderX/project/meetup/images/600_476818848.jpeg.png",
+		"/home/hoatep/dev/coderX/project/meetup/images/video1.mp4",
+		"/home/hoatep/.config/sublime-text-3/Packages/User/Chrome.sublime-build",
+		"/home/hoatep/dev/coderX/project/meetup/app.js",
+		"/home/hoatep/dev/coderX/project/meetup/images/video.mp4",
+		"/home/hoatep/Documents/javaApp/README.md",
+		"/home/hoatep/Documents/javaApp/vuonggia.html",
+		"/home/hoatep/Documents/javaApp/voluyendinhphong.html",
+		"/home/hoatep/Documents/javaApp/trungsinh.html",
+		"/home/hoatep/Documents/javaApp/trongsinhdothitutien.html",
+		"/home/hoatep/Documents/javaApp/toithangcapmotminh.html",
+		"/home/hoatep/Documents/javaApp/common.css",
+		"/home/hoatep/Documents/java/toithangcapmotminh.css",
+		"/home/hoatep/Documents/javaApp/style.css",
+		"/home/hoatep/Documents/java/index.html",
+		"/home/hoatep/Documents/javaApp/index.html",
+		"/home/hoatep/Documents/javaApp/app.js",
+		"/home/hoatep/Documents/java/untitled.html",
+		"/home/hoatep/Documents/demo/untitled",
+		"/home/hoatep/Documents/javaApp/untitled",
+		"/home/hoatep/Documents/javaApp/do dung.odt"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Chrome.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
